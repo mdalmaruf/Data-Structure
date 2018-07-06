@@ -1,0 +1,217 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 8098>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (//Section 'K') Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 28.35 47.76 Tm 0 Tr (#include <stdio.h>) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 28.35 70.44 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+47.55 62.37 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 70.44 Tm 0 Tr (main ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 70.44 Tm 0 Tr (\(\) {) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 93.11 Tm 0 Tr (int  ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 85.04 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 93.11 Tm 0 Tr (var1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 93.11 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 104.45 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 96.38 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 104.45 Tm 0 Tr (var2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 104.45 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 90.75 104.45 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 104.45 Tm 0 Tr (];) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.13 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 119.06 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 127.13 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 127.13 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 127.13 Tm 0 Tr ("Address of var1 variable: %x\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 127.13 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 119.06 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 127.13 Tm 0 Tr (var1  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 127.13 Tm 0 Tr (\);) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.47 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 130.40 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 138.47 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 138.47 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 138.47 Tm 0 Tr ("Address of var2 variable: %x\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 138.47 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+244.35 130.40 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 244.35 138.47 Tm 0 Tr (var2  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 138.47 Tm 0 Tr (\);) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 161.14 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 76.35 161.14 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 161.14 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (}) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (//--------------------------2nd Task Pointer) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (//---------------------------Section 'K') Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 28.35 217.84 Tm 0 Tr (#include <stdio.h>) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+47.55 232.44 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 240.51 Tm 0 Tr (main ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 240.51 Tm 0 Tr (\(\) {) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 263.19 Tm 0 Tr (int  ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 255.12 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 263.19 Tm 0 Tr (var ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 263.19 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 95.55 263.19 Tm 0 Tr (20) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 263.19 Tm 0 Tr (;   ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 124.35 263.19 Tm 0 Tr (/* actual variable declaration */) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 274.53 Tm 0 Tr (int  ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 66.75 274.53 Tm 0 Tr (*) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 266.46 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 274.53 Tm 0 Tr (ip) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 274.53 Tm 0 Tr (;        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 124.35 274.53 Tm 0 Tr (/* pointer variable declaration */) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 28.35 297.21 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 289.14 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 297.21 Tm 0 Tr (ip ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 297.21 Tm 0 Tr (= &) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 289.14 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 297.21 Tm 0 Tr (var) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 297.21 Tm 0 Tr (;  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 100.35 297.21 Tm 0 Tr (/* store address of var in pointer variable*/) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 311.81 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 319.88 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 319.88 Tm 0 Tr ("Address of var variable: %x\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 319.88 Tm 0 Tr (, &) Tj  ET Q
+1.000 1.000 1.000 rg
+239.55 311.81 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 239.55 319.88 Tm 0 Tr (var  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 319.88 Tm 0 Tr (\);) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (   ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 42.75 342.56 Tm 0 Tr (/* address stored in pointer variable */) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 345.83 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 353.90 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 353.90 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 353.90 Tm 0 Tr ("Address stored in ip variable: %x\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 353.90 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+263.55 345.83 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 263.55 353.90 Tm 0 Tr (ip ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 277.95 353.90 Tm 0 Tr (\);) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.58 Tm 0 Tr (   ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 42.75 376.58 Tm 0 Tr (/* access the value using the pointer */) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 28.35 387.92 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 1.000 rg
+42.75 379.85 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 42.75 387.92 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 387.92 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 387.92 Tm 0 Tr ("Value of *ip variable: %d\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 387.92 Tm 0 Tr (, *) Tj  ET Q
+1.000 1.000 1.000 rg
+229.95 379.85 14.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 229.95 387.92 Tm 0 Tr (ip ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 387.92 Tm 0 Tr (\);) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (   ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 42.75 410.59 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 76.35 410.59 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 410.59 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 4)
+/CreationDate (D:20160118163032)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000008246 00000 n 
+0000008528 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000008335 00000 n 
+0000008434 00000 n 
+0000008642 00000 n 
+0000008673 00000 n 
+0000008780 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+8883
+%%EOF

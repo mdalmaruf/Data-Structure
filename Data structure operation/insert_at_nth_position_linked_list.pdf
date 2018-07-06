@@ -1,0 +1,277 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 12595>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (//insert data at the nth position of the linked list. section j,p -maruf) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 28.35 47.76 Tm 0 Tr (#include<stdio.h>) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 28.35 59.10 Tm 0 Tr (#include<stdlib.h>) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+61.95 73.70 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 81.77 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ({) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 104.45 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 96.38 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 104.45 Tm 0 Tr (data) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 104.45 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 115.79 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+81.15 107.72 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 115.79 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 115.79 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 107.72 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (next) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 115.79 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.13 Tm 0 Tr (};) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 28.35 138.47 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+61.95 130.40 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 138.47 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 138.47 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 130.40 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 138.47 Tm 0 Tr (head) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 138.47 Tm 0 Tr (; ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 119.55 138.47 Tm 0 Tr (//Globally we have declared the head so that we can access to head from anywhere of the) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 149.81 Tm 0 Tr (//program) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+52.35 164.41 91.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (insert_nth_position) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 172.48 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 148.35 172.48 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+167.55 164.41 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 172.48 Tm 0 Tr (data) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 172.48 Tm 0 Tr (, ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 196.35 172.48 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+215.55 164.41 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 172.48 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 172.48 Tm 0 Tr (\)) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ({) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 195.16 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+81.15 187.09 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 195.16 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 195.16 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 195.16 Tm 0 Tr (temp1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 195.16 Tm 0 Tr (= \() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 153.15 195.16 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+186.75 187.09 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 195.16 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 195.16 Tm 0 Tr (*\)) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 195.16 Tm 0 Tr (malloc) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 195.16 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 249.15 195.16 Tm 0 Tr (sizeof) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 277.95 195.16 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 282.75 195.16 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+316.35 187.09 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 316.35 195.16 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 335.55 195.16 Tm 0 Tr (\)\); ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 354.75 195.16 Tm 0 Tr (//dynamically allocate the memory) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 28.35 206.50 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 198.43 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 206.50 Tm 0 Tr (temp1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 206.50 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+81.15 198.43 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 206.50 Tm 0 Tr (data ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 206.50 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 198.43 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 206.50 Tm 0 Tr (data) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 206.50 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.84 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 209.77 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 217.84 Tm 0 Tr (temp1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 217.84 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+81.15 209.77 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 217.84 Tm 0 Tr (next ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 217.84 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+114.75 209.77 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 217.84 Tm 0 Tr (NULL) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 217.84 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 251.85 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 251.85 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+61.95 243.78 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 251.85 Tm 0 Tr (n ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 251.85 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 85.95 251.85 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 251.85 Tm 0 Tr (\){) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 255.12 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 263.19 Tm 0 Tr (temp1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 263.19 Tm 0 Tr (->) Tj  ET Q
+1.000 1.000 1.000 rg
+100.35 255.12 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 263.19 Tm 0 Tr (next ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 263.19 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 255.12 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 263.19 Tm 0 Tr (head) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 263.19 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 266.46 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 274.53 Tm 0 Tr (head ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+100.35 266.46 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 274.53 Tm 0 Tr (temp1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 274.53 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.87 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 66.75 285.87 Tm 0 Tr (return) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 285.87 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.21 Tm 0 Tr (    }) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.55 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 308.55 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+81.15 300.48 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 308.55 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 308.55 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 300.48 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 308.55 Tm 0 Tr (temp2 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 308.55 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 300.48 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 308.55 Tm 0 Tr (head) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 308.55 Tm 0 Tr (;) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 311.81 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 319.88 Tm 0 Tr (int i;) Tj  ET Q
+28.35 323.15 124.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (    for\(i =1; i<n-1; i++\){) Tj  ET Q
+28.35 334.49 134.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (        temp2 = temp2->next;) Tj  ET Q
+28.35 345.83 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (    }) Tj  ET Q
+28.35 357.17 144.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.24 Tm 0 Tr (    temp1->next = temp2->next;) Tj  ET Q
+28.35 368.51 115.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.58 Tm 0 Tr (    temp2->next = temp1;) Tj  ET Q
+28.35 379.85 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.92 Tm 0 Tr (}) Tj  ET Q
+28.35 402.52 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (void display\(\)) Tj  ET Q
+28.35 413.86 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr ({) Tj  ET Q
+28.35 425.20 139.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (    struct Node* temp = head;) Tj  ET Q
+28.35 436.54 144.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.61 Tm 0 Tr (    printf\("List contains: "\);) Tj  ET Q
+28.35 447.88 110.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.95 Tm 0 Tr (    while\(temp != NULL\)) Tj  ET Q
+28.35 459.22 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.29 Tm 0 Tr (    {) Tj  ET Q
+28.35 470.55 163.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (        printf\("%d ", temp->data\);) Tj  ET Q
+28.35 481.89 249.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (        temp = temp->next; // pointing the next Node) Tj  ET Q
+28.35 493.23 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (    }) Tj  ET Q
+28.35 504.57 81.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (    printf\("\\n"\);) Tj  ET Q
+28.35 515.91 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.98 Tm 0 Tr (}) Tj  ET Q
+28.35 538.59 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.66 Tm 0 Tr (int main\(\)) Tj  ET Q
+28.35 549.92 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr ({) Tj  ET Q
+28.35 561.26 76.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (    head = NULL;) Tj  ET Q
+28.35 572.60 139.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (    insert_nth_position\(2,1\);) Tj  ET Q
+28.35 583.94 139.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (    insert_nth_position\(3,2\);) Tj  ET Q
+28.35 595.28 139.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.35 Tm 0 Tr (    insert_nth_position\(4,1\);) Tj  ET Q
+28.35 606.62 139.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.69 Tm 0 Tr (    insert_nth_position\(5,2\);) Tj  ET Q
+28.35 617.96 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.03 Tm 0 Tr (    display\(\);) Tj  ET Q
+28.35 640.63 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (    return 0;) Tj  ET Q
+28.35 651.97 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 4)
+/CreationDate (D:20151011082006)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000012744 00000 n 
+0000013026 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000012833 00000 n 
+0000012932 00000 n 
+0000013140 00000 n 
+0000013171 00000 n 
+0000013278 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+13381
+%%EOF
