@@ -1,5 +1,5 @@
-#include<stdio.h>
 // selection sort
+#include<stdio.h>
 #include<stdlib.h>
 
 int main(){
@@ -30,7 +30,7 @@ int main(){
     }
     
     printf("\nPrint the numbers\n");
-    for(i=0; i<5; i++){
+    for(i=0; i<size; i++){
         printf("%d ", array[i]);
     }
     
